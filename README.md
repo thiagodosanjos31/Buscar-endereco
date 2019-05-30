@@ -10,3 +10,6 @@ O projeto consiste em consumir um serviço que realiza o preenchimento automáti
 • HTML<br>
 • Bootstrap<br>
 • Ajax
+
+# Como inicializar?
+Necessário que um servidor esteja ativo, como por exemplo o Apache através do XAMPP. Após isso, salvar os arquivos disponíveis na pasta htdocs e acessar a url: http://localhost/ajax/appPesquisaEndereco/
