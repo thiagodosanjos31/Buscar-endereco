@@ -12,8 +12,7 @@ O projeto consiste em consumir um serviço que realiza o preenchimento automáti
 • Ajax
 
 # Como inicializar?
-Necessário que um servidor esteja ativo, como por exemplo o Apache através do XAMPP. Após isso, salvar os arquivos disponíveis na pasta htdocs dentro do XAMPP. Inserir a url: http://localhost/ + o caminho que você salvou o arquivo dentro da pasta HTDOCS. <br>
-Ex: http://localhost/ajax/appPesquisaEndereco/
+Abrir o arquivo index.html
 
 # Minhas customizações
 Foi incluso a mascara ao digitar o cep e após completar todos os caracteres é disparado uma requisição para o serviço de preenchimento, não havendo a necessidade de pressionar enter ou clicar fora do campo de texto.
